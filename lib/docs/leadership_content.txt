@@ -1,0 +1,24 @@
+
+<h2>Jeffrey P. Goldman</h2>
+<small>CEO, founder</small>
+<p>Jeffrey P. Goldman, M.D. was the Director of Body MRI at Mount Sinai Medical Center from 2000- 2004. Dr. Goldman has lectured widely in Body, Vascular, Cardiac MRI and has extensive experience in radiology case based teaching in Cardiac CTA. Dr. Goldman obtained his B.S. at Yale, University, M.D. at Stanford University, Radiology Residency at NYU and fellowship at University of Pennsylvania.</p>
+
+<h2>Kaushal Shastri</h2>
+<small>CTO</small>
+<p>Kaushal has been developing Radiology Informatics products for over thirty years. He has developed and managed development of some of the most successful PACS systems in the world including at GE HealthCare, Siemens Medical Systems, and FujiFilm Medical Informatics. He holds several patents in Radiology informatics and holds a BSEE from Case Western Reserve University.</p>
+
+<h2>Mike Laureno</h2>
+<small>CFO</small>
+<p>Mike Laureno has served as CFO to several early stage and high growth companies actively managing strategic, financial and operational areas. Previously Mike has worked on large corporate turnarounds for AlixPartners, as well as held positions in venture capital and investment banking firms. Mike holds a BA in Philosophy and MS in Finance from Boston College.</p>
+
+<h2>Carmelo Interone</h2>
+<small>Chief Architect Radiology</small>
+<p>Carmelo Interone has been developing PACS software for 20+ years. He has served as Senior Software Engineer at Siemens Medical Systems, GE Medical Systems, and FujiFilm. Carmelo received his BS in Computer Science and Biology from The University of Iowa.</p>
+
+<h2>Vishal Gandhi</h2>
+<small>Chief Architect Open Edx</small>
+<p>Vishal Gandhi has worked as Technology Director at several digital agencies and startups. He works as Head of Product Engineering at McKinsey Academy and is associated with the edX Architecture Council and Engineering team. Vishal holds a MS and BS degree in Computer Science from SUNY Buffalo.</p>
+
+<h2>Reuben Mezrich</h2>
+<small>Chief Medical Advisor</small>
+<p>Reuben Mezrich, MD, PhD, FACR, is professor and former chair of the Department of Diagnostic Radiology and Nuclear Medicine at the University of Maryland School of Medicine. Dr. Mezrich has lead a storied career in academic radiology. Throughout his career Dr. Mezrich has been at the forefront of marrying technological innovation with radiology education. He currently serves as Chairman Education Committee for the ACR.</p>
